@@ -25,6 +25,9 @@ The dataset file (`EEG Eye State.arff`) is included in this repo, next to the no
 - Test accuracy is 62%, but recall for the "closed" class is only 33% (the last 15% of the recording has only about 7% closed-eye windows, so accuracy alone is misleading).
 - Likely reasons (not verified): very little training data (648 windows with heavy overlap) and the signal drifting over time, which matters with a chronological split.
 
+![Training and validation curves](image1.png)
+![Confusion matrix on the test set](image2.png)
+
 ## Run it
 
 ```bash
