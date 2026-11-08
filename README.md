@@ -29,7 +29,7 @@ The dataset file (`EEG Eye State.arff`) is included in this repo, next to the no
 
 ```bash
 pip install torch scikit-learn pandas numpy matplotlib seaborn scipy jupyter
-jupyter notebook EEG_CNN_Completed.ipynb
+jupyter notebook EEG-CNN.ipynb
 ```
 
 Run all cells top to bottom.
