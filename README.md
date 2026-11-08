@@ -6,7 +6,7 @@ Classifying whether a person's eyes are **open or closed** from raw EEG signals,
 
 [EEG Eye State](https://archive.ics.uci.edu/dataset/264/eeg+eye+state) (UCI Machine Learning Repository): about 15,000 samples, 14 EEG channels, and a binary label (`eyeDetection`: 0 = open, 1 = closed).
 
-The dataset file is not included in this repo. Download `EEG Eye State.arff` and put it next to the notebook.
+The dataset file (`EEG Eye State.arff`) is included in this repo, next to the notebook.
 
 ## What the notebook does
 
