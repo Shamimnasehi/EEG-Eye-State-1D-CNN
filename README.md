@@ -35,5 +35,4 @@ pip install -r requirements.txt
 jupyter notebook EEG-CNN.ipynb
 ```
 
-Run all cells top to bottom.
-
+Run all cells top to bottom. 
